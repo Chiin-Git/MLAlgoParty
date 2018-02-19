@@ -1,2 +1,9 @@
 name: "my-website-name"
 output_dir: "."
+navbar:
+  title: "Stuff"
+  left:
+    - text: "Index"
+      href: index.html
+    - text: "More Stuff"
+      href: "MLAlgoPartyPage.html"
