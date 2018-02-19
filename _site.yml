@@ -1,0 +1,9 @@
+name: "my-website-name"
+output_dir: "."
+navbar:
+  title: "Stuff"
+  left:
+    - text: "THE WORDY STUFF"
+      href: index.html
+    - text: "HERE'S THE CODE"
+      href: "MLAlgoPartyPage.html"
